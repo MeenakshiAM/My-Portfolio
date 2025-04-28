@@ -7,6 +7,7 @@ import {
   FaHtml5,
   FaCss3Alt,
   FaJs,
+  FaJava,
   FaDatabase,
 } from "react-icons/fa";
 import { SiMongodb, SiExpress, SiDjango } from "react-icons/si";
@@ -18,11 +19,9 @@ const skills = [
   { name: "JavaScript", icon: <FaJs className="icon" /> },
   { name: "React", icon: <FaReact className="icon" /> },
   { name: "Python", icon: <FaPython className="icon" /> },
-  { name: "Node.js", icon: <FaNodeJs className="icon" /> },
-  { name: "MongoDB", icon: <SiMongodb className="icon" /> },
-  { name: "Express.js", icon: <SiExpress className="icon" /> },
+  
   { name: "Django", icon: <SiDjango className="icon" /> },
-
+  { name: "Java", icon: <FaJava className="icon" /> },
   { name: "Git", icon: <FaGitAlt className="icon" /> },
   { name: "SQL", icon: <FaDatabase className="icon" /> },
 ];

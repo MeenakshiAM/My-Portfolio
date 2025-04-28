@@ -47,7 +47,7 @@ export default function Home() {
               <FaGithub />
             </a>
             <a
-              href="www.linkedin.com/in/meenakshi-a-m"
+              href="https://www.linkedin.com/in/meenakshi-a-m/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -60,6 +60,7 @@ export default function Home() {
             >
               <FaTwitter />
             </a>
+            
           </div>
         </div>
         <img src={profileImg} alt="profile" className="profile" />
