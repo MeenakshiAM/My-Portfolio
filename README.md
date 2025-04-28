@@ -1,12 +1,43 @@
-# React + Vite
+# portfolio
+# 🧑‍💻 Meenakshi A M — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal **portfolio website**!  
+Built with 💖 using **React.js**, this website showcases my skills, projects, and passion for web development.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 About Me
 
-## Expanding the ESLint configuration
+Hi, I'm **Meenakshi A M**, a passionate and self-driven **Web Developer** focused on building beautiful, accessible, and functional websites.  
+Currently sharpening my skills and working on cool side projects. Let's create something amazing together!
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- 💫 Interactive homepage with animated typing text (Typed.js)
+- 🖼️ Project showcase with hover effects and live/GitHub links
+- 📱 Responsive design — looks great on all devices
+- 🧭 Smooth scroll navigation
+- 🎨 Clean and modern UI
+- 🌐 Social media links (LinkedIn, GitHub, Twitter)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, JSX, CSS3, Framer Motion
+- **Animations:** Typed.js, Framer Motion
+- **Icons:** React Icons
+- **Design:** Custom CSS with responsive layout
+
+---
+
+## 📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/2b371d7d-bdf9-4903-abb7-7eafd2cbfc33)
+
+
+---
+
+
