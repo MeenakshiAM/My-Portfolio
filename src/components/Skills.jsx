@@ -10,7 +10,7 @@ import {
   FaJava,
   FaDatabase,
 } from "react-icons/fa";
-import { SiMongodb, SiExpress, SiDjango } from "react-icons/si";
+import { SiMongodb, SiExpress, SiSpringboot } from "react-icons/si";
 import "../index.css"; // Make sure this file exists
 
 const skills = [
@@ -18,12 +18,14 @@ const skills = [
   { name: "CSS", icon: <FaCss3Alt className="icon" /> },
   { name: "JavaScript", icon: <FaJs className="icon" /> },
   { name: "React", icon: <FaReact className="icon" /> },
-  { name: "Python", icon: <FaPython className="icon" /> },
-  
-  { name: "Django", icon: <SiDjango className="icon" /> },
   { name: "Java", icon: <FaJava className="icon" /> },
+  
+  
+  { name: "Spring Boot", icon: <SiSpringboot className="icon" /> },
+  
   { name: "Git", icon: <FaGitAlt className="icon" /> },
   { name: "SQL", icon: <FaDatabase className="icon" /> },
+  { name: "Python", icon: <FaPython className="icon" /> },
 ];
 
 const Skills = () => {

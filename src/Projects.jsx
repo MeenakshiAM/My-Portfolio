@@ -1,18 +1,18 @@
 import React from "react";
 import "./index.css";
 import { FaArrowLeft, FaArrowRight } from "react-icons/fa"; // Optional if needed
-import news from "./assets/images/news_website.png";
+import diary from "./assets/images/diary.png";
 import portfolio from "./assets/images/portfolio_website.png";
 import foss from "./assets/images/foss.png";
 import Project from "./components/project.jsx"; // Use this import to render the `Project` component
 
 const projectList = [
   {
-    title: "News Website",
-    description: "Stay updated with the latest news. this is just an simple website which uses API to fetch the news",
-    github: "https://github.com/MeenakshiAM/KTN-Know-The-News...-",
+    title: "QuietQuill",
+    description: "QuietQuill is a beautifully minimalistic diary and notes application designed with simplicity and creativity in mind.",
+    github: "https://github.com/MeenakshiAM/QuietQuill",
     live: "#",
-    image: news,
+    image: diary,
   },
   {
     title: "Portfolio Website",
