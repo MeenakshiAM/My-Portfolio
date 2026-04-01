@@ -295,9 +295,9 @@ body {
 .projects-container {
   margin-top: 70px;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 40px;
-  padding: 20px;
+  padding: 10px;
   width: 100%;
   justify-content: center;
   align-items: center;
