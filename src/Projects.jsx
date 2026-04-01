@@ -4,6 +4,7 @@ import { FaArrowLeft, FaArrowRight } from "react-icons/fa"; // Optional if neede
 import diary from "./assets/images/diary.png";
 import portfolio from "./assets/images/portfolio_website.png";
 import foss from "./assets/images/foss.png";
+import unikart from "./assets/images/unikart.png";
 import Project from "./components/project.jsx"; // Use this import to render the `Project` component
 
 const projectList = [
@@ -28,7 +29,13 @@ const projectList = [
     live: "https://fossclub-lbsitw.github.io/FOSS-WEBSITE/",
     image: foss,
   },
-  
+  {
+    title: "UniKart",
+    description: "UniKart is conceptualized as a specialized, multi-vendor e-commerce platform designed to operate exclusively within a campus environment",
+    github: "https://github.com/MeenakshiAM/UniKart",
+    live: "#",
+    image: unikart,
+  },
 ];
 
 export default function Projects() {
